@@ -12,7 +12,4 @@ I study Engineering Mechanics @ UIUC
 <div align="center"> 
 
 You can find more about my work, projects, and skills in my portfolio: [louisli.dev](https://louisli.dev/)
-
-<img src="https://komarev.com/ghpvc/?username=nullpointerexceptionkek&&style=flat-square" align="center" />
-
 </div>
