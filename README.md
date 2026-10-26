@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.svg)
 
 # <div align="center">Hello! I’m Louis!</div>
 
